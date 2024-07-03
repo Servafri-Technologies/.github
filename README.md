@@ -107,7 +107,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-- **Email**: youremail@example.com
+- **Email**: info@servafri.com
 - **LinkedIn**: [Servafri](https://www.linkedin.com/in/servafri)
 - **GitHub**: [Servafri](https://github.com/servafri-technologies)
 
